@@ -1,5 +1,3 @@
-﻿package mt.utilitaires;
-
 import java.util.Date;
 
 public class TimeMethods {
